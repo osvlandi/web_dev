@@ -1,2 +1,2 @@
 # web_dev
-My web development projects
+A repository for my web development projects.
